@@ -1,0 +1,4 @@
+* @githubschool/team-1 
+*.md @stoe
+tests/ @qa-team
+tests/*.md @allthedoll
