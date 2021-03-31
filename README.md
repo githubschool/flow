@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers Day 1
 
 - Class Date: March 31 - April 1, 2021
 - Facilitator: @ericalloyd
