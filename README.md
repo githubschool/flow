@@ -1,15 +1,15 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: March 31 - April 1, 2021
+- Facilitator: @ericalloyd
 
 ## Talk to Us!!
 
-If you have a question, or need assistance during class, **please create an issue and mention @TEACHER-HANDLE**.
+If you have a question, or need assistance during class, **please create an issue and mention @ericalloyd**.
 
 ## Give Us Feedback
 
-Please take a moment to complete the class survey at: SURVEY-LINK
+Please take a moment to complete the class survey at: <https://www.surveymonkey.com/r/M7M9LNL>
 
 ## Scripts for Adding Files
 
